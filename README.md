@@ -1,6 +1,4 @@
-funstuff
-========
+miscphp repo
+============
 
-nothing really
-
-updating this 
+This repository contains misc PHP code
